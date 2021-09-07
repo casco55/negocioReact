@@ -1,0 +1,29 @@
+.overflow{
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
+.logo{
+    height:40px;
+    width: 40px;
+}
+.cursor-pointer:hover{
+    cursor:pointer;
+}
+
+.fa-bars{
+    color: black !important;
+}
+.texto-descripcion-imagen{
+    z-index: 3;
+    left: 8.3%;
+    
+}
+.imagen-descripcion-imagen{
+    right: 8.3%;
+}
+.fondo-difuso{
+    background-color: rgba(148, 148, 148, 0.623);
+}
